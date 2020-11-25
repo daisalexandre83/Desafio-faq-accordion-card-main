@@ -1,0 +1,160 @@
+/* limpar formatação padrão */
+
+*{
+    margin:0;
+    padding: 0;
+}
+
+body{
+    background: #9A2EFE;
+    
+}
+
+#interno{
+    background: #FAFAFA;
+    width: 900px;
+    height: 400px;
+    margin: 130px auto;
+    border-radius: 25px;
+}
+
+#text-n1{
+    position: absolute;
+    top:190px;
+    right: 658px;
+    font-weight: bold;
+    font-size: 25px;
+    
+}
+
+#text-n2{
+    position: absolute;
+    top:230px;
+    right: 317px;
+    padding-bottom: 10px;
+}
+
+#text-n3{
+    position: absolute;
+    top: 270px;
+    right: 462px;
+    padding-left: 10px;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+#text-n4{
+    position: absolute;
+    top: 300px;
+    right: 407px;
+    padding-bottom: 5px;
+    font-size: 13px;
+}
+
+#text-n5{
+    position: absolute;
+    top: 325px;
+    right: 320px;
+    padding-bottom: 10px;
+    font-size: 13px;
+}
+
+#text-n6{
+    position: absolute;
+    top: 365px;
+    right: 320px;
+    color: red;
+    padding-bottom: 10px;
+}
+
+#text-n7{
+    position: absolute;
+    top: 400px;
+    right: 322px;
+    padding-bottom: 10px;
+}
+
+#text-n8{
+    position: absolute;
+    top: 440px;
+    right: 321px;
+    padding-bottom: 10px;
+}
+
+#img1{
+    position: relative;
+    top: -240px;
+    left: -400px;
+    width: 750px;
+    height: 800px;
+}
+
+#img2{
+    position: relative;
+    top: -700px;
+    left:-80px;
+    width:430px;
+    height: 225px;
+
+}
+
+#img3{
+    
+    position: absolute;
+    top:335px;
+    left:182px;
+    width:80px;
+    height: 80px;
+    }
+
+
+.borda-inf{
+    
+    border-bottom: 2px solid #F2F2F2;
+    width: 390px;
+    font-size: 15px;
+
+}
+
+.arrow1{
+    position: absolute;
+    top: 240px;
+    right: 330px;
+    width: 8px;
+    height: 5px;
+}
+
+.arrow2{
+    position: absolute;
+    top: 375px;
+    right: 330px;
+    width: 8px;
+    height: 5px;
+}
+
+.arrow3{
+    position: absolute;
+    top: 410px;
+    right: 330px;
+    width: 8px;
+    height: 5px;
+}
+
+.arrow4{
+    position: absolute;
+    top: 450px;
+    right: 330px;
+    width: 8px;
+    height: 5px;
+    
+}
+
+.arrow5{
+    position: absolute;
+    top: 280px;
+    right: 330px;
+    width: 8px;
+    height: 5px;
+    
+    
+}
